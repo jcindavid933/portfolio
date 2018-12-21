@@ -20,13 +20,21 @@ const CopyRight = styled.a`
   font-family: ${fonts.SFMono};
   font-size: ${fontSizes.xsmall};
 `;
+const GithubLink = styled.a`
+  color: ${colors.slate};
+  font-family: ${fonts.SFMono};
+  font-size: ${fontSizes.xsmall};
+`;
 
 const Footer = () => (
   <FooterContainer>
     <Copy>
-      <CopyRight>
+      <GithubLink
+        href="https://github.com/jcindavid933/portfolio"
+        target="_blank"
+        rel="nofollow noopener noreferrer">
         Developed by David Nam
-      </CopyRight>
+      </GithubLink>
     </Copy>
   </FooterContainer>
 );
