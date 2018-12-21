@@ -2,8 +2,8 @@
 date: '2017-12-13'
 title: 'Portfolio'
 cover: './portfolio.png'
-github: 'https://github.com/bchiang7/v3'
-external: 'https://bchiang7.github.io/v3/'
+github: 'https://github.com/jcindavid933/portfolio'
+external: 'https://dwnam.com'
 tech:
   - React
   - JavaScript
