@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import Gif from './react-gif';
 import PropTypes from 'prop-types';
 import ScrollReveal from 'scrollreveal';
 import { srConfig } from '../config';
